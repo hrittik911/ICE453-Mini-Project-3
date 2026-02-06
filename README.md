@@ -1,1 +1,2 @@
-# ICE453-Mini-Project-3
+# IoT Security and Consumer Risk 
+The Internet of Things connects billions of everyday devices, but rapid innovation often comes at the expense of security. This exposes users to cyberattacks, data theft, and privacy violations, raising ethical questions about developers’ responsibility. As IoT expands into critical sectors like healthcare and transportation, weak security can cause system-wide failures or physical harm, making it crucial to balance convenience, profit, and moral accountability.
